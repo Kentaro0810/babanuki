@@ -1,0 +1,9 @@
+{
+  "name": "ROYAL MAID 4人ババ抜き",
+  "short_name": "ROYAL MAID",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06110d",
+  "theme_color": "#06110d",
+  "lang": "ja"
+}
